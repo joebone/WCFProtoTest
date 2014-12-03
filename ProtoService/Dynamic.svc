@@ -1,0 +1,8 @@
+﻿<%@ ServiceHost Language="C#" 
+        Debug="true" 
+        Service="ProtoService.Dynamic" CodeBehind="Dynamic.svc.cs" %>
+<%-- 
+<%@ServiceHost Service="Microsoft.ServiceModel.Samples.CalculatorService"
+               Factory="Microsoft.ServiceModel.Samples.SelfDescribingServiceHostFactory"
+               language=c# Debug="true" %>
+--%>
