@@ -25,7 +25,10 @@ namespace ProtoService
         public Service1()
         {
 
+            // porotbuf "manual" : http://www.codeproject.com/Articles/642677/Protobuf-net-the-unofficial-manual
+
             //http://blogs.msdn.com/b/dmetzgar/archive/2011/03/29/protocol-buffers-and-wcf.aspx
+            //http://www.drdobbs.com/windows/working-with-protobuf-wcf-services/240159282
 
 
 
